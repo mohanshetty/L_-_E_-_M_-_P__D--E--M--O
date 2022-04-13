@@ -89,6 +89,7 @@ Script written in shell to install LEMP Stack (Nginx - MariaDB - PHP-FPM) on Ubu
 - And more...
 
 ### 1.5. Backup/Restore data
+
 - Backup and restore data from Google Drive with Rclone.
 - Backup, restore at Local.
 - Set the number of archived backups.
@@ -138,7 +139,9 @@ Script written in shell to install LEMP Stack (Nginx - MariaDB - PHP-FPM) on Ubu
 - Any suggestions, please send them to sanvv@hostvn.com, Facebook Groups: https://www.facebook.com/groups/hostvn.vn or create Github Issues.
 
 ## 9. Contributors & Credits
+
 ### Developers / Maintainers
+
 - Sanvv
 
 ### Contributors
